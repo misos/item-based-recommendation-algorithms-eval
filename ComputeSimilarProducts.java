@@ -76,8 +76,8 @@ public class ComputeSimilarProducts {
     }    
 
     public static void main(String[] args) throws UnsupportedEncodingException, IOException {
-        String prefix = "/srv/tmp/RecSys/";
-        String product_features = prefix + "orders_days-3409-3499_client-10458712099_text_product_features.txt";
+        String prefix = "/tmp/";
+        String product_features = prefix + "product_features.txt";
         String product_similarity_out = prefix + "product_similarity_based_on_u2u_CF.txt";
         int features = 32;
         double sim_threshold = 0.1;
