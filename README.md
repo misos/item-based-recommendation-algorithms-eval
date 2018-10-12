@@ -9,7 +9,7 @@ The code is available in form of IPython notebooks:
 
 See the [paper](wikt18_item-rec-algo-eval-and-lfs.pdf) published on [DaZ/WIKT 2018](http://daz2018.fit.vutbr.cz/)
 
-Michal Laclavik, Marek Ciglan: [Benchmark of LFS and other Item-based Recommendation Algorithms on Public Dataset](wikt18_item-rec-algo-eval-and-lfs.pdf), Data a znalosti & WIKT 2018, Brno 11.-12.10.2018, pp. 205-209.
+Michal Laclavik, Marek Ciglan: [Benchmark of LFS and other Item-based Recommendation Algorithms on Public Dataset](wikt18_item-rec-algo-eval-and-lfs.pdf), Data a znalosti & WIKT 2018, Brno 11th-12th October 2018, pp. 205-209.
 
 
 
